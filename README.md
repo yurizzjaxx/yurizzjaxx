@@ -4,7 +4,7 @@
   
   Studio __**XP::...**__
 
-<img src = "https://raw.githubusercontent.com/yurizzjaxx/Request/refs/heads/main/src/img/banner-PinkSky.gif">
+<img src = "https://raw.githubusercontent.com/yurizzjaxx/yurizzjaxx/refs/heads/main/image/yurizzjaxx_banner.png">
 
 | YouTube | Lang | X/Twitter |
 |---|---|---|
