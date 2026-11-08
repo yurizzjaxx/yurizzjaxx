@@ -12,5 +12,7 @@
 
 <br/>
 <img src="https://skillicons.dev/icons?i=html,js,lua,py,linux">
+<br/>
+<img src="https://img.shields.io/badge/build-android-brightgreen?style=for-the-badge">
 
 </div>
