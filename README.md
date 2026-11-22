@@ -4,7 +4,7 @@
   
   📍Studio __**XP::...**__
 
-<img src = "https://raw.githubusercontent.com/yurizzjaxx/yurizzjaxx/refs/heads/main/image/yurizzjaxx_banner.png">
+<img src = "https://raw.githubusercontent.com/yurizzjaxx/yurizzjaxx/refs/heads/main/image/yurizzjaxx_banner2.png">
 
 | YouTube | Lang | X/Twitter |
 |---|---|---|
